@@ -1,0 +1,28 @@
+@font-face {font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_1905310_uxgn63331xm.eot?t=1593143265810'); /* IE9 */
+    src: url('//at.alicdn.com/t/font_1905310_uxgn63331xm.eot?t=1593143265810#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOcAAsAAAAAB7gAAANNAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqCaIJnATYCJAMQCwoABCAFhG0HUhvjBhEVnIHIfhy4MWkvy96eW2Qnq70HD3yd+T6SzJqniggqYCEdS59ozH7TPcNVaEaE6ZRYtp3+uCY3OtKXpsD/AWDE4bRpCcwHymWsbWMMjLoA44AC2hvbmlAbS5BTCa/mBj0GezME4E40tRCdTr3sGGj0XgIQ08LE0RgJA7oiW2AgsBZM1IgcLBgyVZ4Fsr37izc0EAZILAp9q34TOo+j3XOep6oYM4ZhKomY4WyAOA0UUAvQICYVOsagglAtFO6f32iaAAYGEp7z3PY81TQh2orCMP7yQCERIKzomZ4ANGJhBc+xBJHSBh0SylSILmAjDYAB2IBJwDadFsmRBBoZGOXtJXw8l9bODWl7Y4IchavT14ZMLI8NLksbW5ge4nLY0uKY1ukCvSgt0O6UFdSQ2mF1pN/QG4vr151Xr9qvXRtx48Y1IlwlXN/mhmux88Zt5/XH9qs3HdceuQYvuFFBsC/Y4HL+qp1bd1NL1v53+VZRjcCuk8/c+BQVXqxB630LgheUM65rfx880XdPDDKDMjwIsVzwyS/OinaLF7ercOrdnz/v1nv0p082L/po4I5uXQ80PNYoPb3RsYYHcnLoul270WZU8K+f41Z41585b/7M+p7LcfGUqnUGJ42Iq9Exq7dpOTqZvgNX5LYqjJo5I6qwVe5ye1+mypxsZqFvpZLkajAvqa2qLpgx6rlKem/fYc6aa1kjfVp9Mzw0AHcich55NjNGdzTCzRc2Fr4lYcMy/RXrRq01iSX4OTXNYwlIwN0ww7uJgT/3h3AFQWQTGJIQkNiIgsKgElFTa8GCB41gxaAt3KlJ1+keBDAHhdBuQA0SCQJftkLizQEofDlH1NR7sBDMO1jxFQruOEXAgh5UEYiQ7AWNYg3vPwiWezLNmvjZN3RTayQu9ugvlDF4ocyKdPSMPcoQQ8aPq1QJSLiDE22HbcswCEe0mnnVYZfnVHShzHI3S+goaBRreP9BsNyTU12TzO1v6KbWSEXJD+cLZQz1Q5kVDYhnRd+o5FJ2GT+uUiUg4Q5OZMPWCDEMxe0iWs18h8Cwy1klaqrIpld1d7gGcEdfRgsplNDCgprI09J6s7Kk/2YDTsn0rjYxOLLrhRT9h7/J9LMZAAAA') format('woff2'),
+    url('//at.alicdn.com/t/font_1905310_uxgn63331xm.woff?t=1593143265810') format('woff'),
+    url('//at.alicdn.com/t/font_1905310_uxgn63331xm.ttf?t=1593143265810') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_1905310_uxgn63331xm.svg?t=1593143265810#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-gou:before {
+    content: "\e689";
+}
+
+.icon-cha:before {
+    content: "\e607";
+}
+
+.icon-chazhao-fangdajingIconziyuan:before {
+    content: "\e600";
+}

@@ -1,0 +1,11 @@
+@mixin left{
+  float: left;
+}
+@mixin right{
+  float: right;
+}
+@mixin clearfix{
+  content: '';
+  display: block;
+  clear: both;
+}
